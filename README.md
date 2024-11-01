@@ -1,2 +1,2 @@
 # Simple-ProductHunt-parser
-It allows you to get rating, description and link from any app on PH 
+It allows you to get rating, description and link from any app on Producthunt 
